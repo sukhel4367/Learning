@@ -21,5 +21,4 @@ This is a simple console-based C# application that allows you to:
    - Input each student's name, subject, and mark
    - Optionally view all stored student data
 
-## Example
 
